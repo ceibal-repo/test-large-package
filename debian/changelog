@@ -1,3 +1,9 @@
+test-large-package (0.3) tatu; urgency=medium
+
+  * Include large-file in examples. 
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 09 Nov 2014 18:13:33 -0200
+
 test-large-package (0.2) tatu; urgency=medium
 
   * Fixed package name.
