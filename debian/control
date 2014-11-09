@@ -1,0 +1,14 @@
+Source: test-large-update
+Section: admin
+Priority: optional
+Maintainer: Plan Ceibal <ceibal@plan.ceibal.edu.uy>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.5
+Vcs-Git: git://github.com/ceibal-tatu/test-large-update.git
+Vcs-Browser: https://github.com/ceibal-tatu/test-large-update/
+
+Package: test-large-update
+Architecture: all
+Depends: ${misc:Depends}
+Description: Paquete de prueba de 120MB para ceibal-update
+ Instala un archivo de 120MB en el equipo bajo /usr/share/doc/examples/test-large-update/large-file.
