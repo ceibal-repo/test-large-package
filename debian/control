@@ -1,4 +1,4 @@
-Source: test-large-update
+Source: test-large-package
 Section: admin
 Priority: optional
 Maintainer: Plan Ceibal <ceibal@plan.ceibal.edu.uy>
@@ -7,7 +7,7 @@ Standards-Version: 3.9.5
 Vcs-Git: git://github.com/ceibal-tatu/test-large-update.git
 Vcs-Browser: https://github.com/ceibal-tatu/test-large-update/
 
-Package: test-large-update
+Package: test-large-package
 Architecture: all
 Depends: ${misc:Depends}
 Description: Paquete de prueba de 120MB para ceibal-update
