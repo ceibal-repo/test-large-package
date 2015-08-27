@@ -1,3 +1,9 @@
+test-large-package (0.4) tatu; urgency=medium
+
+  * Se actualizo maintainer y repo.
+
+ -- Plan Ceibal <apt@plan.ceibal.edu.uy>  Thu, 27 Aug 2015 16:57:08 -0300
+
 test-large-package (0.3) tatu; urgency=medium
 
   * Include large-file in examples. 
