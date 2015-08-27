@@ -4,8 +4,8 @@ Priority: optional
 Maintainer: Plan Ceibal <ceibal@plan.ceibal.edu.uy>
 Build-Depends: debhelper (>= 9.0.0)
 Standards-Version: 3.9.5
-Vcs-Git: git://github.com/ceibal-tatu/test-large-update.git
-Vcs-Browser: https://github.com/ceibal-tatu/test-large-update/
+Vcs-Git: git://github.com/ceibal-repo/test-large-update.git
+Vcs-Browser: https://github.com/ceibal-repo/test-large-update/
 
 Package: test-large-package
 Architecture: all
